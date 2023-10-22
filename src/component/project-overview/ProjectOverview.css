@@ -1,0 +1,19 @@
+.btn-spacer{
+    margin: 5px;
+}
+
+.spend-time-container{
+    margin: 5px;
+    border: 1px solid black;
+    padding: 5px;
+}
+
+.spend-time-container .header-text{
+    font-weight: bold;
+}
+
+.spend-time-container .time-container{
+    border: 1px solid black;
+    padding: 5px;
+    margin: 5px;
+}

@@ -1,0 +1,18 @@
+.project-container{
+    margin: 5px;
+    border: 1px solid black;
+    padding: 5px;
+}
+
+
+.field-container{
+    width: 100%;
+}
+
+.field-container .title-content{
+    font-weight: bold;
+}
+
+.field-container .value-content{
+
+}
