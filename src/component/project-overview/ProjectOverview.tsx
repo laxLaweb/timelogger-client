@@ -6,6 +6,10 @@ import './ProjectOverview.css';
 import {TimeRegisterInterface} from "../../models/time-register";
 import Moment from 'moment';
 
+/*
+* This component will print out all the projects
+* It will make a request to get all the projects
+* */
 class ProjectOverview extends React.Component {
     state: {
         projects: ProjectInterface[],
